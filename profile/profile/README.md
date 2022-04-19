@@ -4,7 +4,7 @@ Hi, this is me, Anne.
 
 You see this avatar, you know it's me.
 
-![image-20220419173814038](C:\Users\Anne\AppData\Roaming\Typora\typora-user-images\image-20220419173814038.png)
+![cat's photo](D:\工作\thoughtworks\cky-learning-git\profile\profile\assets\cat's photo.png)
 
 ### Profile：
 
