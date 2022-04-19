@@ -4,9 +4,7 @@ Hi, this is me, Anne.
 
 You see this avatar, you know it's me.
 
-![cat's photo](D:\工作\thoughtworks\cky-learning-git\profile\profile\assets\cat's photo.png)
-
-### Profile：
+### Profile：![cat's photo](D:\工作\thoughtworks\cky-learning-git\profile\assets\cat's photo.png)
 
 - name: 陈珂羽
 - graduation: China University of Petroleum(Beijing)
