@@ -6,7 +6,7 @@ You see this avatar, you know it's me.
 
 ### Profile：
 
-### ![cat's photo](D:\工作\thoughtworks\cky-learning-git\gtb-git-learn\assets\cat's photo.png)
+### ![Image](https://github.com/gtb-2022-chen-keyu/gtb-git-learn/blob/master/cat's%20picture.png)
 
 - name: 陈珂羽
 - graduation: China University of Petroleum(Beijing)
